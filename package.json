@@ -1,0 +1,13 @@
+{
+  "name": "dependency-injector-pattern",
+  "version": "1.0.0",
+  "description": "Simply use dependency injector pattern in your project",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
+  }
+}
