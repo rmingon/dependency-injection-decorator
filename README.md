@@ -19,5 +19,8 @@ class Test {
     }
 }
 
-export const testService = Injector.resolve(Test)
+const testService = Injector.resolve(Test)
+testService.test()
 ```
+
+### You can now use injection pattern
