@@ -1,5 +1,11 @@
 ## Dependency injector pattern library
 
+#### INSTALL THE LIB
+
+```bash
+npm i dependency-injector-pattern
+```
+
 #### How to use
 
 ```typescript
