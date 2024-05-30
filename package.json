@@ -1,6 +1,6 @@
 {
   "name": "dependency-injector-pattern",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simply use dependency injector pattern in your project",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

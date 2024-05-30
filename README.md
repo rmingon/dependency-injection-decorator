@@ -21,6 +21,7 @@ class Test {
 
 const testService = Injector.resolve(Test)
 testService.test()
+'Hello'
 ```
 
 ### You can now use injection pattern
