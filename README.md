@@ -1,6 +1,6 @@
 ## Dependency injector pattern library
 
-#### INSTALL THE LIB
+#### Install library
 
 ```bash
 npm i dependency-injector-pattern
